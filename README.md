@@ -1,1 +1,3 @@
 # covid-stats
+
+`Updates
